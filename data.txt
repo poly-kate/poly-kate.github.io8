@@ -1,0 +1,1 @@
+mark 800\nprepare 50\ndays_count 4\nfast_form on\nhero 500\nname Екатерина\nemail kate_abramova1997@mail.ru\nphone 931-333-3333\n
